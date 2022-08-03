@@ -1,0 +1,39 @@
+---
+title: "Quarto Sketchy HTML Theme"
+subtitle: "for revealjs"
+author: "David Schoch"
+date: today
+institute: "GESIS - Leibniz Institute for the Social Sciences"
+format: sketchy-html
+toc: true
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+> blockquotes are fun
+
+You can also [strike through]{.strike}, [cross-off]{.cross}, [highlight]{.highlight}, and [circle]{.circle} text
+
+:::{.box}
+box for arbitrary content
+:::
+
+Tables also work
+
+| Default | Left | Right | Center |
+|---------|:-----|------:|:------:|
+| 12      | 12   |    12 |   12   |
+| 123     | 123  |   123 |  123   |
+| 1       | 1    |     1 |   1    |

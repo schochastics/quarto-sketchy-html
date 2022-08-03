@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+/*-- scss:rules --*/
+pre > code.sourceCode > span {
+ font-family: 'Pangolin';
+}
+
+div.sourceCode{
+  background-color: white;
+}
+
+pre>code, p code{
+  font-family: 'Pangolin';
+}
+
+h2{
+  border-bottom: 0px;
+}
+
+blockquote{
+  border-left: 0px;
+}
+
+thead, tbody, tfoot, tr, td, th{
+  border-style: none;
+}
