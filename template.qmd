@@ -1,6 +1,6 @@
 ---
-title: "Quarto Sketchy HTML Theme"
-subtitle: "for revealjs"
+title: "Quarto Sketchy Theme"
+subtitle: "for html documents"
 author: "David Schoch"
 date: today
 institute: "GESIS - Leibniz Institute for the Social Sciences"
