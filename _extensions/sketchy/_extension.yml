@@ -1,13 +1,13 @@
 title: Sketchy HTML documents 
 author: David Schoch
-version: 1.0.0
+version: 1.1.0
 contributes:
   formats:
     html:
       mainfont: Pangolin
-      include-before-body:
-        - annotate.html
+      filters:
+          - annotate.lua
       theme: [default, sketchy.scss]
       css: theme.css
       footer: |
-              <a href="https://mr.schochastics.net">theme by schochastics</a>
+              <a href="https://mr.schochastics.net">theme by schochastics</a> 
