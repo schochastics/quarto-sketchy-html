@@ -14,4 +14,4 @@ quarto use template schochastics/quarto-sketchy-html
 
 All available classes are shown in the template.
 
-A rendered version of `template.qmd` can be foun on [quarto.pub](https://schochastics.quarto.pub/quarto-sketchy-theme/)
+A rendered version of `template.qmd` can be found on [quarto.pub](https://schochastics.quarto.pub/quarto-sketchy-theme/)
