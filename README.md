@@ -6,7 +6,13 @@ uses [roughnotation](https://roughnotation.com/) to create a sketchy looking htm
 
 ## Installation
 
-The template can be installed using the following command
+The template can be installed using the following command:
+
+```bash
+quarto add schochastics/quarto-sketchy-html
+```
+
+Alternatively, you can install and use a template document directly using the following command:
 
 ```bash
 quarto use template schochastics/quarto-sketchy-html
